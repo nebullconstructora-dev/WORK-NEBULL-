@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nebullconstructora-dev.github.io/WORK-NEBULL-/sitemap.xml
